@@ -1,0 +1,2 @@
+# deployment
+DEPLOY DJANGO APP: NGINX, GUNICORN, SUPERVISOR, Flask etc
